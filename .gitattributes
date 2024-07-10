@@ -1,0 +1,11 @@
+TP-28242/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+TP-28242/Library/Artifacts/8d/8d85427768292a7ecf5a19a1210b05dc filter=lfs diff=lfs merge=lfs -text
+TP-28242/Library/Artifacts/3c/3c569bedb5c367ac8c87e216bb4a6bec filter=lfs diff=lfs merge=lfs -text
+TP-28242/Library/Artifacts/12/12e2e4626453b5ca1123d45744eb0ea4 filter=lfs diff=lfs merge=lfs -text
+TP-28242/Assets/CartoonTracksPack1/Track1/Textures/garages.psd filter=lfs diff=lfs merge=lfs -text
+TP-28242/Library/Artifacts/ca/ca9a588d2c5e18e8012d1d838b98bd60 filter=lfs diff=lfs merge=lfs -text
+TP-28242/Assets/CartoonTracksPack1/Track1/Textures/road.psd filter=lfs diff=lfs merge=lfs -text
+TP-28242/Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+TP-28242/Assets/CartoonTracksPack1/Track1/Textures/road_normal.png filter=lfs diff=lfs merge=lfs -text
+TP-28242/Library/Artifacts/ba/baeda8835a6f59a649491ec2156d7919 filter=lfs diff=lfs merge=lfs -text
+TP-28242/Library/Artifacts/dc/dc476f3c20bffc472fb9efe29a960cfd filter=lfs diff=lfs merge=lfs -text
